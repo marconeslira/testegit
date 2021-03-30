@@ -9,7 +9,7 @@
 * Criar um repositório no Git Hub
 * Criar um repositório Local
 
-* inicializar o repositório Local
+* inicializar o repositório Local vfdgg
 -> git init (dentro do rep local)
 
 * conectando o repositório local ao remoto
